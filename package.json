@@ -1,0 +1,22 @@
+{
+  "name": "js-micro",
+  "version": "0.1.0",
+  "description": "A pluggable RPC framework for microservices compatible with go-micro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcoquet/js-micro.git"
+  },
+  "author": "Miguel Coquet <miguel@mcoquet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcoquet/js-micro/issues"
+  },
+  "homepage": "https://github.com/mcoquet/js-micro#readme",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
