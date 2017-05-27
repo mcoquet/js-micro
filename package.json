@@ -18,5 +18,10 @@
   "homepage": "https://github.com/mcoquet/js-micro#readme",
   "devDependencies": {
     "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "consul": "^0.29.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
   }
 }
