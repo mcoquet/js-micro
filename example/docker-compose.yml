@@ -4,6 +4,8 @@ services:
     build: .
     volumes:
       - ../:/app/
+    environment:
+      MICRO_REGISTRY_ADDRESS: "consul"
 
 networks:
   default:
