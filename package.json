@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mcoquet/js-micro#readme",
   "devDependencies": {
-    "standard": "^8.6.0"
+    "standard": "11.0.0"
   }
 }
